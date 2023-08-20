@@ -14,4 +14,4 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101) (100%)
 20 Agustus 2023
 Belajar Dasar Git dengan GitHub
 + Disini saya diajarkan tentang cara menggunakan github
-+ Dan saat ini progres saya masih 38%, saya akan berusaha menyelesaikannya tepat waktu.
++ Dan saat ini progres saya masih 39%, saya akan berusaha menyelesaikannya tepat waktu.
